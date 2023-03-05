@@ -22,9 +22,10 @@ main .main-content .text {
 }
 
 main .main-content .text p {
-  width: 60%;
+  width: 75%;
   font-size: 1.2em;
   font-weight: 300;
+  line-height: 1.6;
 }
 
 /* CARDS ================  */
@@ -38,8 +39,9 @@ main .techs .cards-container .card {
   height: 120px;
   padding: 10px;
   background-color: #eee;
-  border-radius: 10px;
-  margin-right: 1.8em;
+  border-radius: 8px;
+  margin-right: 0.9em;
+  margin-left: 0.9em;
   cursor: pointer;
 
   display: flex;
